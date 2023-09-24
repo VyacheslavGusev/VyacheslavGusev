@@ -1,9 +1,11 @@
 ### Привет 👋 Я Вячеслав Гусев,
 
-Cертификаты об обучении:
-- [Основы визуализации данных:] (https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
-- [Основы статистики:] (https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
-- [SQL получение данных:] (https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20SQL.pdf)
+#### Cертификаты об обучении:
+- [Основы визуализации данных;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
+- [Основы статистики;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
+- [SQL получение данных;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20SQL.pdf)
+- [Аналитика больших данных;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20big%20data%20analytics.pdf)
+- [Математика Data Science;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20Mathematics%20Data%20Science.pdf)
 
 Here are some ideas to get you started:
 
