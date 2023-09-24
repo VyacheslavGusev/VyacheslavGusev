@@ -1,6 +1,9 @@
 ### Привет 👋 Я Вячеслав Гусев,
 
-
+Мои сертификаты об обучении:
+- Основы визуализации данных: https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf
+- Основы статистики: https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf
+- SQL: https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20SQL.pdf
 
 Here are some ideas to get you started:
 
