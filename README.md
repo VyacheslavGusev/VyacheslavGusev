@@ -1,4 +1,5 @@
 ### Hi 👋 I'm Viacheslav Gusev,
+Data analyst, product manager, business expert.
 
 #### Certificates of education:
 - [Data Visualization;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
