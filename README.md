@@ -10,14 +10,18 @@ Data analyst, product manager, business expert.
 #### My CV:
 - [CV;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/CV_Data_Scientist.pdf)
 
-Here are some ideas to get you started:
+My Key competencies:
+- Collection and analysis of customer reporting requirements
+- Understanding key metrics for business, meaningful interpretation of KPI's 
+- Application of key mathematical methods and fundamentals of statistics in the work
+- Getting data from web sources or via API
+- Working with databases, PostgreSQL (CTE, views, window functions, subqueries, joins)
+- Building, testing hypotheses, determining the relationships of indicators, analyzing results and identifying problem areas for business
+- Creating analytical solutions and presenting them to the business
+- Data analysis in Python (Pandas, NumPy,MPL, Scipy, Statistics, Pyspark)
+- Excel (pivot tables, data visualization )
+- Excel OLAP cubes (Power Query, building data models, DAX formulas)
+- Building interactive dashboards in Power BI, Looker Studio (GDS), Tableau, Data Lens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I will be glad to collaboration✌️
 -->
