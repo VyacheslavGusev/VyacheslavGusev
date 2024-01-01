@@ -8,6 +8,7 @@ Data analyst, product manager, business expert.
 - [Big Data Analytics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20big%20data%20analytics.pdf)
 - [Mathematics Data Science;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20Mathematics%20Data%20Science.pdf)
 - [Machine Learning;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20ML.pdf)
+- [Management DS;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/managment%20DS.pdf)
 #### My CV:
 - [CV;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/CV_Data_Scientist.pdf)
 
