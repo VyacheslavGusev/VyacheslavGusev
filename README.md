@@ -16,14 +16,14 @@ My Key competencies:
 - Collection and analysis of customer reporting requirements
 - Understanding key metrics for business, meaningful interpretation of KPI's 
 - Application of key mathematical methods and fundamentals of statistics in the work
+- Data analysis in Excel (pivot tables, OLAP, Power Query, DAX, data visualization)
+- Building interactive dashboards in Power BI, Looker Studio (GDS), Tableau, Data Lens
 - Getting data from web sources or via API
 - Working with databases, PostgreSQL (CTE, views, window functions, subqueries, joins)
 - Building, testing hypotheses, determining the relationships of indicators, analyzing results and identifying problem areas for business
 - Creating analytical solutions and presenting them to the business
 - Data analysis in Python (Pandas, NumPy,MPL, Scipy, Statistics, Pyspark)
-- Excel (pivot tables, data visualization )
-- Excel OLAP cubes (Power Query, building data models, DAX formulas)
-- Building interactive dashboards in Power BI, Looker Studio (GDS), Tableau, Data Lens
+- Building ML models and neural networks,(Sklearn, Keras), working with features, outlier search, Feature Engineering, Feature Selection.
 
 I will be glad to collaboration✌️
 -->
