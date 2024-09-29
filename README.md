@@ -11,7 +11,8 @@ Data analyst, product manager, business expert.
 - [Management DS;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/managment%20DS.pdf)
 - [Computer Vision;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20CV.pdf)
 #### My CV:
-- [CV;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V.pdf)
+- [CV rus;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V.pdf)
+- [CV en;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V_en.pdf)
 
 My Key competencies:
 - Collection and analysis of customer reporting requirements;
