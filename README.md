@@ -3,14 +3,25 @@ Data analyst, product manager, business expert.
 
 #### Certificates of education:
 - [Diploma Data Science;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/!Diploma%20Data%20Science.pdf)
-- [Data Visualization;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
-- [Practical statistics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
+- [Computer Vision;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20CV.pdf)
+- [NLP;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20NLP.pdf)
+- [Time Seriese;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20time%20seriese.pdf)
+- [RecSys;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20Rec_sys.pdf)
+- [Neutral Networks;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20Neural%20Netwworks.pdf)
+- [Machine Learning;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20ML.pdf)
 - [SQL & getting data;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20SQL.pdf)
 - [Big Data Analytics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20big%20data%20analytics.pdf)
 - [Mathematics Data Science;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20Mathematics%20Data%20Science.pdf)
-- [Machine Learning;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20ML.pdf)
+- [Practical statistics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
 - [Management DS;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/managment%20DS.pdf)
-- [Computer Vision;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20CV.pdf)
+- [Data Visualization;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 #### My CV:
 - [CV rus;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V_rus.pdf)
 - [CV en;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V_en.pdf)
