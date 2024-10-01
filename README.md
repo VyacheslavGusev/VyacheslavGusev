@@ -2,6 +2,7 @@
 Data analyst, product manager, business expert.
 
 #### Certificates of education:
+- [Diploma Data Science;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/!Diploma%20Data%20Science.pdf)
 - [Data Visualization;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
 - [Practical statistics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
 - [SQL & getting data;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20SQL.pdf)
