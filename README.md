@@ -15,13 +15,8 @@ Data analyst, product manager, business expert.
 - [Practical statistics;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20practical%20statistics.pdf)
 - [Management DS;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/managment%20DS.pdf)
 - [Data Visualization;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/Certificates%20of%20training/certificate%20data%20visualization.pdf)
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+\
+\
 #### My CV:
 - [CV rus;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V_rus.pdf)
 - [CV en;](https://github.com/VyacheslavGusev/VyacheslavGusev/blob/main/DS_Gusev_V_en.pdf)
